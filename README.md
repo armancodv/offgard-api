@@ -5,4 +5,4 @@ This API is developed using PHP 5.
 
 [Configuration](configuration)
 
-**Notice:** The messages in this app is in Persian, but do not worry, you can change it easily.
+**Notice:** The messages in this app is in Persian, but do not worry, you can change it easily in configuration.
